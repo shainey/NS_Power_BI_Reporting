@@ -5,5 +5,5 @@ We need to utilize PBI Desktop due to the  NS users not being business individua
 
 *  Nightscout Power BI Reporting FB Group:  https://www.facebook.com/groups/857487091295727/
 *  Steven Hainey Personal NS URL:  https://shaineycgmremotemonitor.herokuapp.com/
-*  OneDrive Folder w/Intructions & Existing PBI Files:  Nightscout Power BI Files: https://1drv.ms/u/s!AqNjmswMwotbhNkeg2Cb3HM6EMYoMQ?e=peZXbu
+*  OneDrive Folder w/Instructions & Existing PBI Files:  Nightscout Power BI Files: https://1drv.ms/u/s!AqNjmswMwotbhNkeg2Cb3HM6EMYoMQ?e=peZXbu
 *  Loop App for iPhone Example: https://loopkit.github.io/loopdocs/
